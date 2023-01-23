@@ -1,2 +1,3 @@
 menambah file3.txt
 seharusnya masih ada baris ke 2
+feature 3
