@@ -1,2 +1,3 @@
 menambah file2.txt
 menambah baris file2.txt
+fature 2
